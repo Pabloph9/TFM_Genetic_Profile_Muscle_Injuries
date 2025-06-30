@@ -1,4 +1,4 @@
-# TFM – Genetic Profile and Muscle Injury Risk
+# TFM – Genetic performance profile and its relationship with the incidence and severity of musculoskeletal injuries in non-professional football players
 
 This repository contains the R script used for statistical analysis in my TFM, which investigates the association between genetic performance profile and the incidence and severity of muscle injuries in non-professional football players.
 
